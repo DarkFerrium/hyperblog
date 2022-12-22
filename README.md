@@ -3,6 +3,7 @@
 * Creado por Jose
 * Ingeniero de proyectos
 * Proximamente proyectos en software
+* El mundo sera mi oficina!
 
 ------------
 
