@@ -1,6 +1,8 @@
 #### MI curso prefesional de Git Hub 🧩
 
 * Creado por Jose
+* Ingeniero de proyectos
+* Proximamente proyectos en software
 
 ------------
 
